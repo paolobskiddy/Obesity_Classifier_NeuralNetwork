@@ -1,0 +1,16 @@
+https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels
+
+Frequency_enc = {"Always" : 3, "Frequently" : 3, "Sometimes" : 3, "no" : 3,}
+Binary_enc = {"yes": 1, "no":0}
+Gender_enc = {"Female":0, "Male":1}
+MTRANS_enc = {"Public_Transportation":4,"Automobile":3,"Walking":2,
+              "Motorbike":1,"Bike":0,}
+
+#X["CAEC"] = X["CAEC"].map(Frequency_enc)
+#X["CALC"] = X["CALC"].map(Frequency_enc)
+#X["FAVC"] = X["FAVC"].map(Binary_enc)
+#X["family_history_with_overweight"] = X["family_history_with_overweight"].map(Binary_enc)
+#X["SMOKE"] = X["SMOKE"].map(Binary_enc)
+#X["SCC"] = X["SCC"].map(Binary_enc)
+#X["MTRANS"] = X["MTRANS"].map(MTRANS_enc)
+#X["Gender"] = X["Gender"].map(Gender_enc)
