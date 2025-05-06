@@ -12,7 +12,7 @@ The aim of this model is to predict the level of obesity of a particular individ
 
 Cross Validation Loss
 
-<img src="imgs/loss_kfold.PNG" alt="Train vs Validation Loss" width="400"/>
+<img src="imgs/loss_kfold_1.PNG" alt="Train vs Validation Loss" width="400"/>
 
 Cross Validation Accuracy
 
